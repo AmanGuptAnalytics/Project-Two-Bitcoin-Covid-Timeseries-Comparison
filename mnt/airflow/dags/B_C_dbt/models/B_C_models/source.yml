@@ -1,9 +1,0 @@
-version: 2
-
-sources:
-  - name: B_C_Raw_Data
-    description: Data input from coinranking API  
-    database: bitcoin-and-covid-comparison
-    schema: B_C_Raw_Data
-    tables:
-      - name: Bitcoin_price_raw
