@@ -15,10 +15,7 @@ what COVID-19 effect Bitcoin Prices. To answer this question, we decided to do a
 1. The project was set up on a VM instance on google cloud. So all the frameworks to be used were set up as docker containers.
 The project uses the following technologies.
 
-<img src="https://img.shields.io/badge/Google Cloud-4885ed?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FFFFFF?style=for-the-badge&logo=dbt&logoColor=orange" /> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/data studio-4285F4?style=for-the-badge&logo=google&logoColor=black" />
+<img src="https://img.shields.io/badge/Google Cloud-4885ed?style=for-the-badge&logo=googlecloud&logoColor=white" /><img src="https://img.shields.io/badge/airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FFFFFF?style=for-the-badge&logo=dbt&logoColor=orange" /<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/data studio-4285F4?style=for-the-badge&logo=google&logoColor=black" />
 
 
 
