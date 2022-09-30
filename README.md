@@ -8,7 +8,7 @@ use the Google Public Covid dataset and get the Daily number of Covid cases in s
 ## Problem Statement:
 
 Bitcoin is a volatile cryptocurrency, and its variations cannot be predicted. However, the Corona Virus COVID-19 significantly impacted the world economy. So we were curious to know 
-what COVID-19 effect Bitcoin Prices. To answer this question, we decided to do an end-to-end project which could ingest daily COVID-19 cases from the top 9 economies of the world and also ingest the everyday Bitcoin prices from Coin Ranking API. 
+how COVID-19 effected Bitcoin Prices. To answer this question, we decided to do an end-to-end project which could ingest daily COVID-19 cases from the top 9 economies of the world and also ingest the everyday Bitcoin prices from Coin Ranking API. 
 
 ## Project Setup
 
@@ -21,7 +21,7 @@ The project uses the following technologies.
 
 So all the important files are stored in the following location in this repo:
 
-***Project-Two-Bitcoin-Covid-Timeseries-Comparison/mnt/airflow/dags/***
++ ***[AIrflow Dags](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/tree/main/mnt/airflow/dags)***
 
 2. In this project, python scripts were used for ingestion from **Coin Ranking** API.  response.request method was used to call the API, and JSON 
 input from the API was converted to pandas data frame and loaded into Bigquery via the pdf.to_gbq method. The used in this script is here:
