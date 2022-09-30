@@ -26,14 +26,14 @@ So all the important files are stored in the following location in this repo:
 2. In this project, python scripts were used for ingestion from **Coin Ranking** API.  response.request method was used to call the API, and JSON 
 input from the API was converted to pandas data frame and loaded into Bigquery via the pdf.to_gbq method. The used in this script is here:
 
-+ [Code for API CALL and Loading Data to Bigquery](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/mnt/airflow/dags/scripts/Bitcoin_rate_API_and_upload.py)
++ ***[Code for API CALL and Loading Data to Bigquery](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/mnt/airflow/dags/scripts/Bitcoin_rate_API_and_upload.py)***
 
   
 
 3. The following code runs in the Airflow Dag using the python callable function. The Next step is to transform the data used in the analysis.
 The data transformation was done using the [Data Build Tool](https://www.getdbt.com/), also known as dbt. This framework was installed in the Docker container via Sudo mode, and the ***transformations*** were done using the following models in dbt.
 
-+ [Models used in dbt](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/tree/main/mnt/airflow/dags/dbt_rev1/models/B_C_models)
++ ***[Models used in dbt](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/tree/main/mnt/airflow/dags/dbt_rev1/models/B_C_models)***
 
 The entire filesystem of dbt can be seen here [dbt_folders](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/tree/main/mnt/airflow/dags/dbt_rev1)
 
