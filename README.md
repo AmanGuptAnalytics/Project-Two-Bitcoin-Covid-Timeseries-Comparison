@@ -53,4 +53,6 @@ email operator in Airflow.
 ![Dashboard Three](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/data/Screen%20Shot%202022-10-02%20at%2012.08.52%20PM.png)
 
 
+So this completes the projects. 
+
 
