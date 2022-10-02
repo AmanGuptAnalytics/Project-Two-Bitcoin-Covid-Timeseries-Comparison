@@ -43,7 +43,7 @@ email operator in Airflow.
 5. Next the dashboards were made using datastudio, These are the dash boards which were made using data studio: 
 
 + Dashboard One, Comparing Daily bitcoin prices with Covid 19 Cases in USA & India
-![Dashboard One- Daily Variations](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/data/Screen%20Shot%202022-10-02%20at%2012.06.11%20PM.png)
+![Dashboard One- Daily Variations](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/data/Screen%20Shot%202022-10-02%20at%2012.31.58%20PM.png)
 
 
 + Dashboard Two, Co-relation coffecient between daily Bitcoin Prices and Covid cases using orginal timeseries and shifted time series data by two weeks.
@@ -53,6 +53,10 @@ email operator in Airflow.
 ![Dashboard Three](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/data/Screen%20Shot%202022-10-02%20at%2012.08.52%20PM.png)
 
 
-So, this completes the projects. :) 
+So, this completes the projects. :) These Dashboards can show the daily variations of Covid Cases in top Nine economies of the world, i.e. 
+
+USA, CHINA, JAPAN, GERMANY, UK, FRANCE, INDIA, CANADA and SOUTH KOREA. 
+
+
 
 
