@@ -40,4 +40,17 @@ The entire filesystem of dbt can be seen here [dbt_folders](https://github.com/A
 4. The last step was to email the developer daily that the airflow dags had been run. This was achieved using the 
 email operator in Airflow. 
 
+5. Next the dashboards were made using datastudio, These are the dash boards which were made using data studio: 
+
++ Dashboard One, Comparing Daily bitcoin prices with Covid 19 Cases in USA & India
+![Dashboard One- Daily Variations](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/data/Screen%20Shot%202022-10-02%20at%2012.06.11%20PM.png)
+
+
++ Dashboard Two, Co-relation coffecient between daily Bitcoin Prices and Covid cases using orginal timeseries and shifted time series data by two weeks.
+![Dashboard Two-Co-relation Coffecient](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/data/Screen%20Shot%202022-10-02%20at%2012.07.03%20PM.png)
+
++ Dashboard Three, Linear regression was done on sample data using Bigquery Model 
+![Dashboard Three](https://github.com/AmanGuptAnalytics/Project-Two-Bitcoin-Covid-Timeseries-Comparison/blob/main/data/Screen%20Shot%202022-10-02%20at%2012.08.52%20PM.png)
+
+
 
