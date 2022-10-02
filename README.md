@@ -55,7 +55,9 @@ email operator in Airflow.
 
 So, this completes the projects. :) These Dashboards can show the daily variations of Covid Cases in top Nine economies of the world, i.e. 
 
-USA, CHINA, JAPAN, GERMANY, UK, FRANCE, INDIA, CANADA and SOUTH KOREA. 
+USA, CHINA, JAPAN, GERMANY, UK, FRANCE, INDIA, CANADA and SOUTH KOREA.
+
+Thank You ! 
 
 
 
